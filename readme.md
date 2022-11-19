@@ -1,5 +1,6 @@
-# Carlos Gonzalez 
 
-## 15
+-- xbox
 
-### Mexico
+--pc
+
+--programar
